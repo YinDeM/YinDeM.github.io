@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>YinDeming&#39;Blog</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2021-11-08T11:05:05.199Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Yin Deming</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>如何阅读一本书读书笔记</title>
+    <link href="http://example.com/2021/11/08/%E5%A6%82%E4%BD%95%E9%98%85%E8%AF%BB%E4%B8%80%E6%9C%AC%E4%B9%A6%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    <id>http://example.com/2021/11/08/%E5%A6%82%E4%BD%95%E9%98%85%E8%AF%BB%E4%B8%80%E6%9C%AC%E4%B9%A6%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</id>
+    <published>2021-11-08T11:02:27.000Z</published>
+    <updated>2021-11-08T11:05:05.199Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;如何阅读一本书-美-莫提默·J·艾德勒-查尔斯·范多伦&quot;&gt;&lt;a href=&quot;#如何阅读一本书-美-莫提默·J·艾德勒-查尔斯·范多伦&quot; class=&quot;headerlink&quot; title=&quot;如何阅读一本书  [美]莫提默·J·艾德勒</summary>
+        
+      
+    
+    
+    
+    <category term="read-notes" scheme="http://example.com/categories/read-notes/"/>
+    
+    
+    <category term="read" scheme="http://example.com/tags/read/"/>
+    
+    <category term="notes" scheme="http://example.com/tags/notes/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>中国历史——1</title>
+    <link href="http://example.com/2021/06/20/%E4%B8%AD%E5%9B%BD%E5%8E%86%E5%8F%B2%E2%80%94%E2%80%941/"/>
+    <id>http://example.com/2021/06/20/%E4%B8%AD%E5%9B%BD%E5%8E%86%E5%8F%B2%E2%80%94%E2%80%941/</id>
+    <published>2021-06-20T13:57:13.000Z</published>
+    <updated>2021-06-20T14:27:41.152Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;中国历史&quot;&gt;&lt;a href=&quot;#中国历史&quot; class=&quot;headerlink&quot; title=&quot;中国历史&quot;&gt;&lt;/a&gt;中国历史&lt;/h1&gt;&lt;h2 id=&quot;地质时代&quot;&gt;&lt;a href=&quot;#地质时代&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="history" scheme="http://example.com/categories/history/"/>
+    
+    
+    <category term="history" scheme="http://example.com/tags/history/"/>
+    
+    <category term="china" scheme="http://example.com/tags/china/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C++学习——1</title>
+    <link href="http://example.com/2021/06/20/C-%E5%AD%A6%E4%B9%A0%E2%80%94%E2%80%941/"/>
+    <id>http://example.com/2021/06/20/C-%E5%AD%A6%E4%B9%A0%E2%80%94%E2%80%941/</id>
+    <published>2021-06-20T11:57:22.000Z</published>
+    <updated>2021-06-20T11:57:22.314Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>IIS总线标准</title>
+    <link href="http://example.com/2021/06/20/IIS%E6%80%BB%E7%BA%BF%E6%A0%87%E5%87%86/"/>
+    <id>http://example.com/2021/06/20/IIS%E6%80%BB%E7%BA%BF%E6%A0%87%E5%87%86/</id>
+    <published>2021-06-20T08:17:26.000Z</published>
+    <updated>2021-06-20T08:30:48.090Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;I2S总线标准&quot;&gt;&lt;a href=&quot;#I2S总线标准&quot; class=&quot;headerlink&quot; title=&quot;I2S总线标准&quot;&gt;&lt;/a&gt;I2S总线标准&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;由于设备和IC(Integrated Circuit,</summary>
+        
+      
+    
+    
+    
+    <category term="audio" scheme="http://example.com/categories/audio/"/>
+    
+    
+    <category term="audio" scheme="http://example.com/tags/audio/"/>
+    
+    <category term="I2S" scheme="http://example.com/tags/I2S/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>imagetest</title>
+    <link href="http://example.com/2021/06/20/imagetest/"/>
+    <id>http://example.com/2021/06/20/imagetest/</id>
+    <published>2021-06-20T08:00:36.000Z</published>
+    <updated>2021-06-20T08:26:35.692Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/.com//pcm.png&quot; alt=&quot;123&quot;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;img src=&quot;imagetest/i2c_time_diagram.jpg&quot; alt=&quot;123&quot;&gt;&lt;/li&gt;
+&lt;li&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>wav文件解析</title>
+    <link href="http://example.com/2021/06/20/wav%E6%96%87%E4%BB%B6%E8%A7%A3%E6%9E%90/"/>
+    <id>http://example.com/2021/06/20/wav%E6%96%87%E4%BB%B6%E8%A7%A3%E6%9E%90/</id>
+    <published>2021-06-20T07:50:10.000Z</published>
+    <updated>2021-06-20T08:16:22.535Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;WAV文件&quot;&gt;&lt;a href=&quot;#WAV文件&quot; class=&quot;headerlink&quot; title=&quot;WAV文件&quot;&gt;&lt;/a&gt;WAV文件&lt;/h1&gt;&lt;h2 id=&quot;声音采集过程&quot;&gt;&lt;a href=&quot;#声音采集过程&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="audio" scheme="http://example.com/categories/audio/"/>
+    
+    
+    <category term="audio" scheme="http://example.com/tags/audio/"/>
+    
+    <category term="wav" scheme="http://example.com/tags/wav/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>尹德明的第一篇博客</title>
+    <link href="http://example.com/2021/06/19/%E5%B0%B9%E5%BE%B7%E6%98%8E%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://example.com/2021/06/19/%E5%B0%B9%E5%BE%B7%E6%98%8E%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</id>
+    <published>2021-06-19T13:05:56.000Z</published>
+    <updated>2021-06-20T02:01:19.642Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;第一章&quot;&gt;&lt;a href=&quot;#第一章&quot; class=&quot;headerlink&quot; title=&quot;第一章&quot;&gt;&lt;/a&gt;第一章&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;我的第一个博客文章，在线的那种。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;第二章&quot;&gt;&lt;a href=&quot;#第二章&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Chores" scheme="http://example.com/categories/Chores/"/>
+    
+    
+    <category term="Chores" scheme="http://example.com/tags/Chores/"/>
+    
+  </entry>
+  
+</feed>
